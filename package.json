@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-geolocation"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-geolocation"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-geolocation/issues"
+    "url": "https://github.com/MPSoftDenmark/cordova-plugin-geolocation/issues"
   },
   "keywords": [
     "cordova",
